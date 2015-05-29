@@ -1,0 +1,10 @@
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\bin\Debug\Domain.dll.config
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\bin\Debug\Domain.dll
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\bin\Debug\Domain.pdb
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\bin\Debug\EntityFramework.dll
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\bin\Debug\EntityFramework.xml
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\obj\Debug\Domain.dll
+E:\Visual Studio 2013\Projects\BookCrossing\Domain\obj\Debug\Domain.pdb

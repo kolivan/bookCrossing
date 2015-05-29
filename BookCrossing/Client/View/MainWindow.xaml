@@ -1,0 +1,20 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Books">
+                <StackPanel>
+                    <DataGrid HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="grdEmployee" />
+                        
+                    
+                </StackPanel>
+            </TabItem>
+            
+                    <TabItem Header="Authors">Вторая вкладка</TabItem>
+            <TabItem Header="Add book">Вторая вкладка</TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

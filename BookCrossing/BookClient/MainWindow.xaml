@@ -1,0 +1,27 @@
+﻿<Window x:Class="BookClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Book">
+                <Grid>
+                    <Button Content="Create"  Margin="5" Height="30"/>
+                </Grid>
+            </TabItem>
+
+           
+                <TabItem Header="User">
+                </TabItem>
+
+            <TabItem Header="Author">
+            </TabItem>
+
+            <TabItem Header="Genre">
+            </TabItem>
+        </TabControl>
+
+        
+
+    </Grid>
+</Window>
